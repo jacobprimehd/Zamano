@@ -1,0 +1,15 @@
+{
+  "name": "zamano",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start -p $PORT"
+  },
+  "dependencies": {
+    "next": "9.1.7",
+    "react": "16.12.0",
+    "react-dom": "16.12.0"
+  }
+}

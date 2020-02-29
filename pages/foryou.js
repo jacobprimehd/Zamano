@@ -5,7 +5,7 @@ import '../styles/main.css'
 
 
 const Story = () => (
-    <body className="container mx-auto bg-red-300">
+    <body className="container mx-auto bg-white">
 
     <Head>
         <title>Zamano</title>

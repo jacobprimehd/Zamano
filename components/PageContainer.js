@@ -13,7 +13,7 @@ export default function HomePageContainer(){
         <Story1></Story1>  
         <Story2></Story2>
         <Link href='/journey'>
-        <a><h1>Sorry the Journal has Ended, But Click here to see the journey!</h1></a>
+        <a><h1>Sorry The Journal has ended, but press here to see the Journey!</h1></a>
         </Link>
         </div>
         </div>

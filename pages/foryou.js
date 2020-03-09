@@ -5,12 +5,13 @@ import '../styles/main.css'
 
 
 const Story = () => (
-    <body className="container mx-auto bg-red-200">
+    <body className="container mx-auto bg-white">
 
     <Head>
         <title>Zamano</title>
     </Head>
-    <PageContainer></PageContainer>
+    <PageContainer>
+    </PageContainer>
     </body>
 )
 

@@ -11,6 +11,8 @@ export default function HomePageContainer(){
             <p className="text-grey-darker text-base font-mono">Translated</p>
             <br/>
             <p className="text-grey-darker text-base font-mono italic">When you see the stars, remember me. In each single star there is a kiss for you</p>
+            <br/>
+            <p className="text-grey-darker text-base font-mono"></p>
           </div>
           <div className="flex items-center">
             <div className="text-sm">

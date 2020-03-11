@@ -7,7 +7,7 @@ export default function HomePageContainer(){
     return(
         <div className="container mx-auto bg-white">
         <div className="flex content-center">
-        <h1 className="mx-auto text-5xl text-black bg-white line-through">The Journal</h1>
+        <h1 className="mx-auto text-5xl text-black bg-white ">The Journal</h1>
         </div>       
         <br/>
         <div className="bg-white flex flex-col items-center object-center">

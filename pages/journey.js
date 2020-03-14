@@ -9,6 +9,7 @@ const Story = () => (
 
     <Head>
         <title>Zamano</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css"></link>
     </Head>
     <div className="min-h-screen flex flex-col items-center justify-center mb-0">
         <h1 className="text-6xl underline">The Journey just started!</h1>

@@ -17,9 +17,6 @@ export default function HomePageContainer(){
         <Story2></Story2>
         <Story3></Story3>
         <Picture></Picture>
-        <Link href='/journey'>
-        <a><h1>Sorry The Journal has ended, but press here to see the Journey!</h1></a>
-        </Link>
         </div>
         </div>
     )

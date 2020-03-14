@@ -1,6 +1,7 @@
 import Story1 from './StoryContainer'
 import Story2 from './StoryContainer2'
 import Story3 from './StoryContainer3'
+import Picture from './PictureContainer'
 import Link from 'next/link'
 
 export default function HomePageContainer(){
@@ -15,6 +16,7 @@ export default function HomePageContainer(){
         <Story1></Story1>  
         <Story2></Story2>
         <Story3></Story3>
+        <Picture></Picture>
         <Link href='/journey'>
         <a><h1>Sorry The Journal has ended, but press here to see the Journey!</h1></a>
         </Link>

@@ -6,7 +6,6 @@ export default function HomePageContainer(){
         <img className="w-full" data-aos="zoom-in" data-aos-delay="250" src="./image/IMG_0785.jpg" alt=""/>
         <img className="w-full" data-aos="zoom-in" data-aos-delay="250" src="./image/IMG_1226.png" alt=""/>
         <img className="w-full" data-aos="zoom-in" data-aos-delay="250" src="./image/IMG_1829.jpg" alt=""/>
-        <img className="w-full" data-aos="zoom-in" data-aos-delay="250" src="./image/moments_06_20_20_50_57.jpg" alt=""/>
       </div>
     )
 }
